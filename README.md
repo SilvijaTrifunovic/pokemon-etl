@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.10+-blue)
+![ETL](https://img.shields.io/badge/Process-ETL-brightgreen)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # Pokemon ETL Pipeline
 This project implements a modular Python ETL pipeline for extracting, transforming, validating, loading, and analyzing Pokemon data using the official PokeAPI. The solution demonstrates clean ETL design with clear separation of concerns and reproducible outputs.
 
